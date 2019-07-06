@@ -10,4 +10,4 @@ This command line interface responds to the following commands:
 In order for this application to work on your device, you will need to install the required node packages, as well as create your own .env file containing your own API Keys for the OMDB API, the Bands in Town API, and the Node Spotify API. 
 
 ## Demonstration
-![LIRI-demonstration](.assets/LIRI-demonstration.webm?raw=true)
+A demonstration video can be found in the assets folder of the repository.
