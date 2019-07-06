@@ -12,7 +12,7 @@ var spotify = new Spotify(keys.spotify);
 var bandsKey = keys.bands.key;
 var omdbKey = keys.omdb.key;
 var command = process.argv[2];
-var search = process.argv[3];
+var search = process.argv.slice(3).join(" ");
 
 
 //Running the function that runs the function that the command line calls for 
@@ -91,7 +91,7 @@ function searchSpotify(search){
         })
         .catch(function (error) {
         console.log(error);
-        searchSpotify("The Sign");
+        searchSpotify("The Sign Ace of Base");
     })
         .finally(function () {
     });
@@ -114,7 +114,7 @@ function readRandom(){
                 searchOmdb(search);
                 break;
             case "concert-this":
-                searchConcerts(search);
+                searchBands(search);
                 break;
 
         };
