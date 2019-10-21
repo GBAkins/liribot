@@ -1,5 +1,5 @@
-# liribot
-###LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
+## liribot
+### Similar to a Siri or an Alexa, LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
 
 This command line interface responds to the following commands:
 - movie-this
