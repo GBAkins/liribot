@@ -18,6 +18,10 @@ In order for this application to work on your device, you will need to install t
 " target="_blank"><img src="http://img.youtube.com/vi/O1cIbBbtZcI/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
+## Built With
+- NodeJS
+- MomentJS
+- axios
 
 ## Author
 
