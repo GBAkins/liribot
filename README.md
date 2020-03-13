@@ -15,7 +15,7 @@ In order for this application to work on your device, you will need to install t
 [LIRI-Bot CLI Application Demonstration](https://www.youtube.com/watch?v=O1cIbBbtZcI&t=1s)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=O1cIbBbtZcI&t=1s
-" target="_blank"><img src="http://img.youtube.com/vi/O1cIbBbtZcI&t=1s/0.jpg" 
+" target="_blank"><img src="http://img.youtube.com/vi/O1cIbBbtZcI/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
